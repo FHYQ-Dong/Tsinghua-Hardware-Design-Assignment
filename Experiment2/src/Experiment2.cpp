@@ -1,8 +1,8 @@
 /*
-* File: src/Experiment2.cpp
-* Author: donghy23@mails.tsinghua.edu.cn
-* Repo: https://github.com/FHYQ-Dong/Tsinghua-Hardware-Design-Assignment/blob/main/Experiment2/src/Experiment2.cpp
-* Date: 2024.7.12
+* @file: src/Experiment2.cpp
+* @author: donghy23@mails.tsinghua.edu.cn
+* @repo: https://github.com/FHYQ-Dong/Tsinghua-Hardware-Design-Assignment/blob/main/Experiment2/src/Experiment2.cpp
+* @date: 2024.7.12
 */
 
 #include <Arduino.h>
