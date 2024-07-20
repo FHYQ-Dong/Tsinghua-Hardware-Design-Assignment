@@ -4,7 +4,7 @@
  * @repo: https://github.com/FHYQ-Dong/Tsinghua-Hardware-Design-Assignment/blob/main/Experiment6/src/Experiment6.cpp
  * @date: 2024.7.19
  * @video: https://cloud.tsinghua.edu.cn/smart-link/0985994d-3c84-4a14-950a-c4464c5bdeac/
- */
+*/
 
 #include <Arduino.h>
 #include "TimerOne.h"
